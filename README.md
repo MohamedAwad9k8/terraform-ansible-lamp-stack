@@ -1,7 +1,7 @@
-# Deploying a Two-Tier LAMP Stack E-commerce App Using Terraform and Ansible
+# Deploying a Three-Tier LAMP Stack E-commerce App Using Terraform and Ansible
 
 ## Overview  
-This project demonstrates how to automate the deployment and configuration of a **two-tier LAMP stack e-commerce application** using **Terraform** and **Ansible**.
+This project demonstrates how to automate the deployment and configuration of a **three-tier LAMP stack e-commerce application** using **Terraform** and **Ansible**.
 
 - **Terraform** provisions the infrastructure on AWS, including the **VPC, subnets, security groups, and EC2 instances** for the web and database servers.
 - **Ansible** configures the servers by installing and setting up **Apache, MySQL, PHP, and the e-commerce application**.
